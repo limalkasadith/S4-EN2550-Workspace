@@ -122,8 +122,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
 .dmypy.json
 dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Assignment-3 Video files
+Assignments/Assignment-3/conveyor_result_190538N.mp4
